@@ -1,0 +1,45 @@
+body {
+    font-family: cursive;
+}
+
+h1 {
+    color: #802a2a;
+}
+
+table {
+    border: 1px solid #802a2a;
+    border-radius: 3px;
+}
+table tr td {
+    border: 1px solid #802a2a;
+    border-radius: 3px;
+}
+
+.table_cell {
+    background-color: rgb(250, 245, 245);
+    text-align: center;
+}
+
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.message {
+    border: 2px solid #802a2a;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px;
+    outline: none;
+    background-color: #faf5f5;
+} 
+
+.result {
+    background-color: #faf5f5;
+    outline: none;
+    border: 2px solid #802a2a;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
